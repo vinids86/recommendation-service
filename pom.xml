@@ -84,7 +84,7 @@
 						<manifest>
 							<addClasspath>true</addClasspath>
 							<classpathPrefix>lib/</classpathPrefix>
-							<mainClass>br.com.makeshiftonjava.configserver.ConfigServerApplication</mainClass>
+							<mainClass>br.com.makeshiftonjava.recommendationservice.RecommendationServiceApplication</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
